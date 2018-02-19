@@ -1,0 +1,15 @@
+.DS_Store*
+*.pyc
+*.log
+*.xml
+*.swp
+reports/
+nohup.out
+*.csv
+/*.jpg
+/*.bmp
+/*.gif
+/*.pdf
+/*.CR2
+/*.txt
+/*.tiff
